@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Builder",
+  "description": "A powerful resume builder using SQLite for storage and Gemini AI for content enhancement and LinkedIn data parsing.",
+  "requestFramePermissions": []
+}
